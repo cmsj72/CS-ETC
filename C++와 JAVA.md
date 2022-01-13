@@ -35,3 +35,6 @@
 3. 동적 바인딩(Dynamic Binding) : https://hellowoori.tistory.com/25
     - C++ : 정적 바인딩 => virtual 키워드를 통해 동적 바인딩을 지원
     - JAVA : 동적 바인딩
+
+
+참조 : https://preamtree.tistory.com/6
