@@ -27,7 +27,7 @@
 
   - Generic : 박싱과 언박싱이 발생하지 않음. 성능 면에서 훨씬 좋음
 
-    ```
+    ```c#
     Member2 member = new Member2();
     
     //Generic Queue 생성. 생성할 때 타입을 알려줌 <Member2>
